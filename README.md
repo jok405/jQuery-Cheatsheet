@@ -1,7 +1,7 @@
 # jQuery-Cheatsheet
 =================
 
-![Screenshot](https://github.com/jok405/jQuery-Cheatsheet/screen-shot.png)
+![Screenshot](/screen-shot.png)
 
 
 ### Installation:
