@@ -5,7 +5,7 @@ jquery-cheatsheet
 ![Screenshot](https://github.com/jok405/screen-shot.png)
 
 
-Installation:
+###Installation:
 -------------
 
 $ cd jquery-cheatsheet
