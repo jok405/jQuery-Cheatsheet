@@ -5,8 +5,8 @@
 
 
 ### Installation:
--------------
-
+-----------------
+```
 $ cd jquery-cheatsheet
 $ npm install
 $ npm start
