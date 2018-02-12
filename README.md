@@ -1,5 +1,4 @@
 # jQuery-Cheatsheet
-jquery-cheatsheet
 =================
 
 ![Screenshot](https://github.com/jok405/jQuery-Cheatsheet/screen-shot.png)
